@@ -13,9 +13,13 @@ The challenge is to recognize fraudulent credit card transaction so that the cus
 
 ## Project Detail
 ### Libraries Used
+
 • Pandas
+
 • Matplotlib
+
 • Seaborn
+
 • Sklearn
 
 ### Algorithm Used:
@@ -30,12 +34,16 @@ The challenge is to recognize fraudulent credit card transaction so that the cus
 
 ### Accuracy:
 • The accuracy score is:  0.9996137776061234
+
 • The precision score is:  0.9879518072289156
+
 • The recall score is:  0.7961165048543689
+
 • The f1-score is:  0.8817204301075269 
 
 ## Conclusion:
 • Comparison with the other algorithms without dealing with the imbalancing of the data. The Random Forest Model gives the better result.
+
 ![image](https://user-images.githubusercontent.com/109037411/199582929-ec877dd0-0d88-4312-9141-361308e343f4.png)
 
 # Thank You.☻
