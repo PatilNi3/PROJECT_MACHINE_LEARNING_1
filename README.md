@@ -33,13 +33,13 @@ The challenge is to recognize fraudulent credit card transaction so that the cus
 - The data is highly Unbalanced.
 
 ### Accuracy:
-• The accuracy score is:  0.9996137776061234
+• The accuracy score is:  100%
 
-• The precision score is:  0.9879518072289156
+• The precision score is:  0: 100% and 1: 92%
 
-• The recall score is:  0.7961165048543689
+• The recall score is:  0: 100% and 1: 80%
 
-• The f1-score is:  0.8817204301075269 
+• The f1-score is:  0: 100% and 1: 85%
 
 ## Conclusion:
 • Comparison with the other algorithms without dealing with the imbalancing of the data. The Random Forest Model gives the better result.
